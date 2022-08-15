@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		DB5C2D7C28AACCD400B085A2 /* SimpleGuessingGame */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SimpleGuessingGame; sourceTree = BUILT_PRODUCTS_DIR; };
 		DB5C2D7F28AACCD400B085A2 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		DB5C2D8628AACFC100B085A2 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		DB5C2D7328AACCD400B085A2 = {
 			isa = PBXGroup;
 			children = (
+				DB5C2D8628AACFC100B085A2 /* README.md */,
 				DB5C2D7E28AACCD400B085A2 /* SimpleGuessingGame */,
 				DB5C2D7D28AACCD400B085A2 /* Products */,
 			);
